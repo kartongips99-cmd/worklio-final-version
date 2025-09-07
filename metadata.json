@@ -1,0 +1,5 @@
+{
+  "name": "copy worklio",
+  "description": "An intuitive application for entrepreneurs of small companies (up to 30-40 people) to manage employees, finances, and scheduling. It includes separate views for employers and employees with role-specific functionalities like payroll calculation, invoice tracking, absence requests, and performance-based bonus calculations.",
+  "requestFramePermissions": []
+}
